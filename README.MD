@@ -12,3 +12,13 @@
 * Esto funciona mientra la universidad cuente con programa académico de Altium.
 * No se permite la instalación de estas licencias en computadores registrados a nombre de la Universidad, ni para proyectos de investigación o profesores.
 * La licencia dura por un semestre.
+
+#Contenido del curso:
+
+En este curso se tocaran los siguientes temas: 
+
+- Creación de un proyecto desde cero.
+- Interfaz Altium Designer 20.
+- Creando un archivo esquematico.
+- Conociendo el panel de Propiedades, Manufacture Part Search, Projects.
+  

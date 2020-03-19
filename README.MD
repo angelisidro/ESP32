@@ -23,4 +23,4 @@ En este curso se tocaran los siguientes temas:
 - Conociendo el panel de Propiedades, Manufacture Part Search, Projects.
 
 # Contacto 
-Para resolución de dudas pueden enviarme un correo electronico <angel.isidro@galileo.edu> y si quieren seguir mi trabajo pueden buscarme en IG <daniiez_a> 
+Para resolución de dudas pueden enviarme un correo electrónico <angel.isidro@galileo.edu> y si quieren seguir mi trabajo pueden buscarme en IG ***daniiez_a*** 

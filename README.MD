@@ -34,6 +34,7 @@ En la carpeta Ejercicios SCH usted encontrara los archivos necesarios para poder
 | --- | --- |
 | Transistor NPN |  ‎1MMBT2222ALT1G  |
 | Resistor 100K OHM | ERA6AEB104V |
+| Resistor 10K OHM | RK73B2ATTD103J |
 | ESP32 |  ‎1904-1010-1-ND‎  |
 | Pin Header | TSW-116-08-G-S |
 # Contacto 

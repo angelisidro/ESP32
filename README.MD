@@ -30,9 +30,11 @@ En la carpeta Ejercicios SCH usted encontrara los archivos necesarios para poder
 -Creando un módulo principal y un subcircuito. <https://www.youtube.com/watch?v=XBMNw-P5sZU>
 
 ## Manufacture Part Numbers
-| Comando | Descripción |
+| Component | Part Number |
 | --- | --- |
-| git status | Enumera todos los archivos nuevos o modificados |
-| git diff | Muestra las diferencias de archivo que no han sido preparadas |
+| Transistor NPN |  ‎1MMBT2222ALT1G  |
+| Resistor 100K OHM | ERA6AEB104V |
+| ESP32 |  ‎1904-1010-1-ND‎  |
+| Pin Header | TSW-116-08-G-S |
 # Contacto 
 Para resolución de dudas pueden enviarme un correo electrónico <angel.isidro@galileo.edu> y si quieren seguir mi trabajo pueden buscarme en IG ***daniiez_a*** 

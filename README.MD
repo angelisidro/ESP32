@@ -27,6 +27,7 @@ En la carpeta Ejercicios SCH usted encontrara los archivos necesarios para poder
 # Lista de videos
 
 -Introducción a Altium Designer 20 <https://youtu.be/oqkdPAvKtsQ> <enter> 
+	
 -Creando un módulo principal y un subcircuito. <https://www.youtube.com/watch?v=XBMNw-P5sZU> <enter>
 
 # Contacto 

@@ -29,13 +29,5 @@ En la carpeta Ejercicios SCH usted encontrara los archivos necesarios para poder
 -Introducción a Altium Designer 20 <https://youtu.be/oqkdPAvKtsQ>
 -Creando un módulo principal y un subcircuito. <https://www.youtube.com/watch?v=XBMNw-P5sZU>
 
-## Manufacture Part Numbers
-| Component | Part Number |
-| --- | --- |
-| Transistor NPN |  ‎1MMBT2222ALT1G  |
-| Resistor 100K OHM | ERA6AEB104V |
-| Resistor 10K OHM | RK73B2ATTD103J |
-| ESP32 |  ‎1904-1010-1-ND‎  |
-| Pin Header | TSW-116-08-G-S |
 # Contacto 
 Para resolución de dudas pueden enviarme un correo electrónico <angel.isidro@galileo.edu> y si quieren seguir mi trabajo pueden buscarme en IG ***daniiez_a*** 

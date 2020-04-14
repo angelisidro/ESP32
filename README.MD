@@ -21,6 +21,9 @@ En este curso se tocaran los siguientes temas:
 - Interfaz Altium Designer 20.
 - Creando un archivo esquematico.
 - Conociendo el panel de Propiedades, Manufacture Part Search, Projects.
+- Footprint Manager.
+- Como hacer un Board CutOut y Silk Screen.
+- Silk Screen y Board CutOut.
 
 En la carpeta Ejercicios SCH usted encontrara los archivos necesarios para poder seguir de manera más fácil este tutorial.
 

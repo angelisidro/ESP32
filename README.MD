@@ -33,5 +33,13 @@ En la carpeta Ejercicios SCH usted encontrara los archivos necesarios para poder
 	
 -Creando un módulo principal y un subcircuito. <https://www.youtube.com/watch?v=XBMNw-P5sZU> <enter>
 
+- Power and Filtering.  <https://www.youtube.com/watch?v=0tICQ-BRHTk&t=627s><enter>	
+
+- Footprint Manager y Modulos Finales. <https://www.youtube.com/watch?v=Oo4kbFvecGA> <enter>
+
+- Creación de Silk Screen. <https://www.youtube.com/watch?v=HZNaCwPdJvk> <enter>
+
+- Board CutOut. <https://www.youtube.com/watch?v=HZNaCwPdJvk> <enter>	
+
 # Contacto 
 Para resolución de dudas pueden enviarme un correo electrónico <angel.isidro@galileo.edu> y si quieren seguir mi trabajo pueden buscarme en IG ***daniiez_a*** 
